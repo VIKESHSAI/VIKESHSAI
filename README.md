@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vikesh
-- 👀 I’m interested in learning new stufs
+- 👀 I’m interested in learning new stuffs
 - 🌱 I’m currently learning java,android developement
 - ⚡ Fun fact: my age will increse once in every year
 
